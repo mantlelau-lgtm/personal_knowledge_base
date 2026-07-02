@@ -1,0 +1,13 @@
+categories:
+  python:
+    - Python
+    - pytest
+    - FastAPI
+  ai:
+    - LLM
+    - RAG
+    - embedding
+    - 向量
+  life:
+    - 生活
+    - 读书

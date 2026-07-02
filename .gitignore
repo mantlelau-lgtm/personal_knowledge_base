@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+
+# Local runtime data
+.env
+.dbg/
+logs/
+storage/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
